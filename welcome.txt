@@ -1,0 +1,18 @@
+Welcome to LFS International server! ( currently in dev from Zero with NodeJS and InSim )
+
+Our server is designed for players from all around the world!
+To make communication seamless, the server can translates messages into your game’s language.
+- In the Global channel, click on the text to translate it.
+
+We're currently in development, aiming to create a Cruise / RPG experience.
+The goal is to provide engaging gameplay without being overly punishing for new players.
+
+Rules of the Road:
+ - We drive on the right side of the road.
+ - Avoid unnecessary collisions with other vehicles.
+ - Don’t abuse excuses—we know you ''didn’t do it on purpose''!
+
+The team comprises just one person, so there's no need to rush.
+All help is welcome, race layouts, your ideas..
+
+Join us, have fun, and enjoy the ride!

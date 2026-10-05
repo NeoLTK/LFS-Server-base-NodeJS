@@ -336,6 +336,6 @@ class inSimServ {
 
 }
 
-var server = new inSimServ('Node this.inSim App', '188.122.74.156', 54722, '***REMOVED***');
+var server = new inSimServ('Node this.inSim App', '188.122.74.156', 54722, process.env.INSIM_ADMIN || '');
 
 module.exports = { inSimServ: inSimServ };
